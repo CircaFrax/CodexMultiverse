@@ -12,4 +12,7 @@
 - Intégration CodexDataLore,
 - Lores uniques.
 - Génération : 0 a 100% model *.**% sur sélection stricte ou modulable = Infinité mix 2 mondes.
-- 
+- Question : timeline ou env?
+- Question : CodexCatapultGooze?
+- Configurer génération d'illustrations..
+- Machinegun mode 100% pour les multivers, comme Aura.
