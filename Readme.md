@@ -5,8 +5,9 @@ Build en cour, passez les détails, cela viendra.
 - CodevUniver -> CodexMultiverse
 - Univers terminés : 2
 - Univers 3 en construction,
+- Intégration CodexDatacraft, (duo CodexVortex).
 - Intégration CodexDataSearch,
-- Base de donnée dédiée controlée,
+- Base de donnée dédiée controlée, (CodexDatacheck).
 - Intégration CodexGenNamae,
 - Création d'éléments,
 - Build méta-univers,
