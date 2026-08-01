@@ -2,7 +2,7 @@
 - Univers 3 en construction,
 - Intégration CodexDatacraft, (duo CodexVortex).
 - Intégration CodexDataSearch,
-- Base de donnée dédiée controlée, (CodexDatacheck).
+- Base de donnée dédiée controlée, (CodexDataCheck).
 - Intégration CodexGenNamae,
 - Création d'éléments,
 - Build méta-univers,
