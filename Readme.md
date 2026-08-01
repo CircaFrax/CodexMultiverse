@@ -1,3 +1,11 @@
-En construction - on garde le cap
+Codex de génération d'univers.
 
-Logiciel d'ajout de cadres et creations d'assets pour .ico.
+Build en cour.
+
+Univers terminés : 2
+Base de donnée dédiée controlée,
+Création d'éléments,
+Build méta-univers,
+Narration, noms, personnalités.
+Switch et mises a jours.
+Lore.
