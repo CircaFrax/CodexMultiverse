@@ -15,4 +15,5 @@
 - Question : timeline ou env?
 - Question : CodexCatapultGooze?
 - Configurer génération d'illustrations..
+- Moteur Lego a voir.
 - Machinegun mode 100% pour les multivers, comme Aura.
