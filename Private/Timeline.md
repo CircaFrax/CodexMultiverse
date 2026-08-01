@@ -1,1 +1,15 @@
-
+- Univers terminés : 2
+- Univers 3 en construction,
+- Intégration CodexDatacraft, (duo CodexVortex).
+- Intégration CodexDataSearch,
+- Base de donnée dédiée controlée, (CodexDatacheck).
+- Intégration CodexGenNamae,
+- Création d'éléments,
+- Build méta-univers,
+- Intégration CodexDataSky,
+- Narration, noms, personnalités.
+- Switch et mises a jours.
+- Intégration CodexDataLore,
+- Lores uniques.
+- Génération : 0 a 100% model *.**% sur sélection stricte ou modulable = Infinité mix 2 mondes.
+- 
