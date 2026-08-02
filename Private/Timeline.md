@@ -14,6 +14,6 @@
 - Génération : 0 a 100% model *.**% sur sélection stricte ou modulable = Infinité mix 2 mondes.
 - Question : timeline ou env?
 - Question : CodexCatapultGooze?
-- Configurer génération d'illustrations..
+- Configurer génération d'illustrations.. besoin matériel dédié.
 - Moteur Lego a voir.
 - Machinegun mode 100% pour les multivers, comme Aura.
