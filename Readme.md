@@ -2,10 +2,10 @@
   <img src="https://circafrax.github.io/assets/banniere.png" width="500">
 </p>
 
-# CodexMultiverse v1.1.0
+# CodexMultiverse v∅
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/CircaFrax/CodexMultiverse/main/assets/CodexPdf_box.png" width="420">
+  <img src="https://raw.githubusercontent.com/CircaFrax/CodexMultiverse/main/assets/CodexMultivers_box.png" width="420">
 </p>
 
 <p align="center">
