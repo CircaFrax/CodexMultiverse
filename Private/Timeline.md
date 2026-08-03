@@ -6,7 +6,7 @@
 - ok Base de donnée dédiée controlée, (CodexDataCheck). version gold.
 - ok Intégration CodexGenNamae, version gold.
 - ok Création d'éléments,
-- ok Build méta-univers,
+- 50% Build méta-univers,
 - ok Intégration CodexDataSky, version gold.
 - ok Narration, noms, personnalités.
 - ok Switch et mises a jours.
