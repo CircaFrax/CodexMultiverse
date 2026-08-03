@@ -2,7 +2,7 @@
 - ok Univer 2 terminé.
 - ok Univer 3 terminé.
 - XX univer 4 en cour.
-- ok Intégration CodexDatacraft, (duo CodexVortex). Versions gold.
+- ok Intégration CodexDatacraft, (duo CodexVortex). Versions gold a faire.
 - ok Intégration CodexDataSearch, version gold.
 - ok Base de donnée dédiée controlée, (CodexDataCheck). version gold.
 - XX Intégration CodexGenNamae, version gold.
