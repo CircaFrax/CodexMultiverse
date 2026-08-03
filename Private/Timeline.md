@@ -17,3 +17,4 @@
 - Configurer génération d'illustrations.. besoin matériel dédié.
 - Moteur Lego a voir.
 - Machinegun mode 100% pour les multivers, comme Aura.
+- Générateur alternatif version scavenger.
