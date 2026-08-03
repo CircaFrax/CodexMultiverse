@@ -1,20 +1,22 @@
-- ok Univers terminés 2.
+- ok Univer 1 terminé.
+- ok Univer 2 terminé.
 - ok Univer 3 terminé.
-- univers 4 en cour.
+- XX univer 4 en cour.
 - ok Intégration CodexDatacraft, (duo CodexVortex). Versions gold.
 - ok Intégration CodexDataSearch, version gold.
 - ok Base de donnée dédiée controlée, (CodexDataCheck). version gold.
-- ok Intégration CodexGenNamae, version gold.
+- XX Intégration CodexGenNamae, version gold.
 - ok Création d'éléments,
-- 50% Build méta-univers,
+- 20% Build méta-univers,
 - ok Intégration CodexDataSky, version gold.
 - ok Narration, noms, personnalités.
 - ok Switch et mises a jours.
-- Intégration CodexDataLore, version gold.
-- Lores uniques.
+- XX Intégration CodexDataLore, version gold.
+- XX Lores uniques.
 - ok Génération : 0 a 100% model *.**% sur sélection stricte ou modulable = Infinité mix 2 mondes.
 - Question : timeline ou env?
 - Configurer génération d'illustrations.. besoin matériel dédié.
 - 30% Moteur Lego a voir.
 - ok Machinegun mode 100% pour les multivers, comme Aura.
-- la base : Générateur alternatif version scavenger.
+- Base : Générateur alternatif version scavenger.
+- Finalité : intégration Histy.
