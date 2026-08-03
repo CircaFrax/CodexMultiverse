@@ -15,6 +15,6 @@
 - ok Génération : 0 a 100% model *.**% sur sélection stricte ou modulable = Infinité mix 2 mondes.
 - Question : timeline ou env?
 - Configurer génération d'illustrations.. besoin matériel dédié.
-- Moteur Lego a voir.
+- 30% Moteur Lego a voir.
 - ok Machinegun mode 100% pour les multivers, comme Aura.
 - la base : Générateur alternatif version scavenger.
