@@ -1,20 +1,20 @@
-- Univers terminés : 2
-- Univers 3 en construction,
-- Intégration CodexDatacraft, (duo CodexVortex).
-- Intégration CodexDataSearch,
-- Base de donnée dédiée controlée, (CodexDataCheck).
-- Intégration CodexGenNamae,
-- Création d'éléments,
-- Build méta-univers,
-- Intégration CodexDataSky,
-- Narration, noms, personnalités.
-- Switch et mises a jours.
-- Intégration CodexDataLore,
+- ok Univers terminés 2.
+- ok Univer 3 terminé.
+- univers 4 en cour.
+- ok Intégration CodexDatacraft, (duo CodexVortex). Versions gold.
+- ok Intégration CodexDataSearch, version gold.
+- ok Base de donnée dédiée controlée, (CodexDataCheck). version gold.
+- ok Intégration CodexGenNamae, version gold.
+- ok Création d'éléments,
+- ok Build méta-univers,
+- ok Intégration CodexDataSky, version gold.
+- ok Narration, noms, personnalités.
+- ok Switch et mises a jours.
+- Intégration CodexDataLore, version gold.
 - Lores uniques.
-- Génération : 0 a 100% model *.**% sur sélection stricte ou modulable = Infinité mix 2 mondes.
+- ok Génération : 0 a 100% model *.**% sur sélection stricte ou modulable = Infinité mix 2 mondes.
 - Question : timeline ou env?
-- Question : CodexCatapultGooze?
 - Configurer génération d'illustrations.. besoin matériel dédié.
 - Moteur Lego a voir.
-- Machinegun mode 100% pour les multivers, comme Aura.
-- Générateur alternatif version scavenger.
+- ok Machinegun mode 100% pour les multivers, comme Aura.
+- la base : Générateur alternatif version scavenger.
